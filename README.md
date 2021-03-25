@@ -19,3 +19,9 @@ Requests is a simple, yet elegant HTTP library. Requests allows you to send HTTP
 
 ## Purpose
 The purpose of this application was a self-set challenge as a way for me got improve my python skills. I am curretnly in the progress of learning programming in the hopes of becoming a software engineer in the future. 
+
+## Plans
+Although I am happy with the current state of the program, It is mainly a proof of concept and a gimmick more than a practical/useful tool. I will be happy to call it finished when: 
+- [x] Guesses users nationality, age & gender
+- [ ] GUI
+- [ ] Provides probabilty of accuracy
